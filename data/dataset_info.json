@@ -1,4 +1,13 @@
 {
+  "order_800_train_data": {
+    "file_name": "order_800_train_data.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "system": "system",
+      "tools": "tools"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
